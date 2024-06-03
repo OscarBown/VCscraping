@@ -1,0 +1,6 @@
+'https://www.ycombinator.com/companies',
+'https://www.balderton.com/companies/',
+'https://www.indexventures.com/companies/backed/all/',
+'https://octopusventures.com/portfolio/',
+'https://www.amadeuscapital.com/companies/',
+'https://www.bgf.co.uk/portfolio/'
